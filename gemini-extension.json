@@ -1,0 +1,11 @@
+{
+  "name": "vocaneo",
+  "version": "1.0.0",
+  "description": "Métiers, formations et certifications en France — le référentiel public de vocaneo.com. EN: French jobs, training programmes and certifications.",
+  "mcpServers": {
+    "vocaneo": {
+      "httpUrl": "https://mcp.vocaneo.com/mcp",
+      "timeout": 30000
+    }
+  }
+}
